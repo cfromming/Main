@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Claus Fromming - Apresentação Profissional</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      text-align: center;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+    }
+    main {
+      padding: 20px;
+    }
+    h1, h2 {
+      margin: 0;
+    }
+    .links a {
+      color: #333;
+      text-decoration: none;
+      padding: 10px;
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Claus Fromming</h1>
+    <p>Líder em Engenharia de Software | Especialista em Arquitetura de Sistemas</p>
+  </header>
+  <main>
+    <h2>Sobre Mim</h2>
+    <p>Sou um profissional com mais de 20 anos de experiência no setor financeiro, especializado em tecnologias como Microserviços, Computação em Nuvem e Modernização de Sistemas Legados. Minha trajetória é marcada por liderança de equipes e transformação digital.</p>
+
+    <h2>Habilidades</h2>
+    <ul>
+      <li>Arquitetura de Microserviços</li>
+      <li>DevOps e Cultura Ágil</li>
+      <li>Modernização de Sistemas COBOL</li>
+      <li>Cloud Computing (AWS)</li>
+    </ul>
+
+    <h2>Projetos</h2>
+    <p>Veja alguns dos meus principais projetos:</p>
+    <ul>
+      <li><a href="https://github.com/username/projeto1">Projeto 1</a></li>
+      <li><a href="https://github.com/username/projeto2">Projeto 2</a></li>
+    </ul>
+
+    <h2>Contato</h2>
+    <p>Email: <a href="mailto:cfromming@gmail.com">cfromming@gmail.com</a></p>
+    <div class="links">
+      <a href="https://linkedin.com/in/claus-fromming" target="_blank">LinkedIn</a>
+      <a href="https://github.com/claus-fromming" target="_blank">GitHub</a>
+    </div>
+  </main>
+</body>
+</html>
